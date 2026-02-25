@@ -40,6 +40,8 @@ Der Commit „add“ enthält den Fehler. In diesem Commit wurden in den Zeilen 
 
 Ich habe dies in VS Code überprüft, indem ich die einzelnen Commits in der History geöffnet und die jeweiligen Änderungen verglichen habe.
 
+Oder mithilfe von diesem git befehl: git show 8be24db117802b8ebe2f24ea2d230426244d5a73
+
 Die Commit-ID lautet:
 8be24db117802b8ebe2f24ea2d230426244d5a73
 
