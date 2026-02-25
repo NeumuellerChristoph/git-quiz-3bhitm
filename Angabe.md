@@ -36,6 +36,14 @@ Du arbeitest strukturiert mit Branches, führst saubere Commits durch und kannst
 5. **GIT-History analysieren (4 Punkte)**
 Schaue dir nun die komplette Commit-History an. Denn im aktuellen Projekt funktioniert die Navigation nicht korrekt. Finde heraus, in welchem Commit der Fehler eingeführt werde. Beschreibe kurz / gibt die Commit-ID an. Mit welchem Befehl hast du dies herausgefunden? Wie viele Commits wurden insgesamt in diesem Projekt erstellt?
 
+Der Commit „add“ enthält den Fehler. In diesem Commit wurden in den Zeilen 14 und 15 die Links zur Unterseite entfernt, da die href-Attribute leer gesetzt wurden (href=""). Dadurch funktioniert die Navigation nicht mehr korrekt.
+
+Ich habe dies in VS Code überprüft, indem ich die einzelnen Commits in der History geöffnet und die jeweiligen Änderungen verglichen habe.
+
+Die Commit-ID lautet:
+8be24db117802b8ebe2f24ea2d230426244d5a73
+
+Den Commit habe ich mit dem Befehl git log ermittelt.
 ----------------------- 
 
 Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: _____________________
