@@ -46,7 +46,11 @@ Die Commit-ID lautet:
 Den Commit habe ich mit dem Befehl git log ermittelt.
 ----------------------- 
 
-Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: _____________________
+Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: 
+
+https://github.com/NeumuellerChristoph/git-quiz-3bhitm.git
+
+_____________________
 
 Gib anschließend dieses ANGABE-File bei MOODLE ab!
 
